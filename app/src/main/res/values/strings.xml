@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiamhhdmlkaXQiLCJhIjoiY2tqOXZyaDdiMWI0YzJwcnU0d3dqMXhpayJ9.mKrpTpG5VtYFaXDA0c6usw</string>
+</resources>
